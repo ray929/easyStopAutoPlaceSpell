@@ -8,5 +8,6 @@
 ## DefaultState: enabled
 ## Category: Action Bars
 ## IconTexture: Interface\AddOns\easyStopAutoPlaceSpell\Icon.tga
+## X-Curse-Project-ID: 1733030
 
 easyStopAutoPlaceSpell.lua
