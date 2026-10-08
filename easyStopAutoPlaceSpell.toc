@@ -1,0 +1,12 @@
+## Interface: 120005, 120007, 120100
+## Title: Easy Stop Auto Place Spell
+## Title-zhCN: 阻止技能自动入条
+## Notes: Stops newly learned spells from being added to your action bars automatically.
+## Notes-zhCN: 阻止新学习的技能自动添加到动作条。
+## Author: ray929
+## Version: @project-version@
+## DefaultState: enabled
+## Category: Action Bars
+## IconTexture: Interface\Icons\Spell_Holy_Silence
+
+easyStopAutoPlaceSpell.lua
