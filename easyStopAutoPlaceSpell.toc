@@ -1,10 +1,10 @@
 ## Interface: 120005, 120007, 120100
 ## Title: Easy Stop Auto Place Spell
 ## Title-zhCN: 阻止技能自动入条
-## Title-zhTW: 阻止技能自動入條
+## Title-zhTW: 阻止技能自動放入快捷列
 ## Notes: Stops newly learned spells from being added to your action bars automatically.
 ## Notes-zhCN: 阻止新学习的技能自动添加到动作条。
-## Notes-zhTW: 阻止新學習的技能自動加入動作條。
+## Notes-zhTW: 阻止新學會的技能自動被放入快捷列。
 ## Author: ray929
 ## Version: @project-version@
 ## DefaultState: enabled
