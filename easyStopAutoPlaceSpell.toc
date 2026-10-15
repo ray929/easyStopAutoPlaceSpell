@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120100, 120105
 ## Title: Easy Stop Auto Place Spell
 ## Notes: Stops newly learned spells from being added to your action bars automatically.
 ## Notes-zhCN: 阻止新学习的技能自动添加到动作条。
